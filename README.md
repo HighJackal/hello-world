@@ -1,2 +1,3 @@
 # hello-world
-Practice repository
+
+First run through of repository use
